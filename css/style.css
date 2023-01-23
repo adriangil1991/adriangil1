@@ -1,0 +1,94 @@
+	#gazpachodecerezas, #crujiente {
+		    font: 120% sans-serif;
+			line-height: 150%;
+
+	 }
+
+	#fideosmarineros, #macarrones {
+			font: 120% sans-serif;
+			line-height: 150%;
+	}
+
+	#tartaqueso, #pastelpiña {
+			font: 120% sans-serif;
+			line-height: 150%;
+	}
+
+	body {
+			background-color: #d7c5da;
+	}
+
+	ul,ol {
+		    font-family: Arial;
+	}	
+
+	#menu {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			background-color: #867797;
+	}
+
+	#menu li {  float: left;}
+
+	#menu li a {
+			display: block;
+			color: white;
+			text-align: center;
+			padding: 20px;
+			text-decoration: none;
+	}
+
+	#menu li a:hover {  background-color: #816171;}
+		
+    .der {
+			float: right;
+	}
+
+	table {
+		    background-color: #867797;
+			color: white;
+			width:80%;
+			table-layout: fixed;
+			border-collapse: collapse;
+			border: 3px solid purple;
+	}
+
+	caption {
+			font-size: 4ex;
+			padding: 20px;
+			color: purple;
+			letter-spacing: 1px;
+	}
+
+	input[type=submit] {
+		background-color: aquamarine;
+		border-radius: 10px;
+	}
+
+	input[type=reset] {
+		background-color: tomato;
+		border-radius: 10px;
+	}
+
+	input {
+		background-color: bisque;
+		width: 250px;
+		border: none
+		border-bottom: 1px solid silver;
+	}
+
+	textarea {
+		background-color: bisque;
+		width: 250px;
+		border: none
+		border-bottom: 1px solid silver;
+	}
+
+	label {
+		display: inline-block;
+		width: 225px;
+		height: 35px;
+
+	}
